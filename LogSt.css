@@ -1,0 +1,30 @@
+#root{
+    
+}
+.Form{
+    text-align: center;
+    background-color: rgb(240, 248, 255);
+    padding-bottom: 30px;
+    border:none;
+    box-shadow:5px 5px 8px rgba(0, 0, 0, 0.199);
+    border-radius: 8px;
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.input{
+    display:grid;
+    gap: 20px;
+    width: 60%;
+    margin-left: 80px;
+}
+.btn{
+    width: 60%;
+    left: 20%;
+}
+.lin{
+    text-decoration:und;
+    color: rgb(0, 72, 255);
+}
